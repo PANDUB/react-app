@@ -1,0 +1,7 @@
+#how to push code into git hub repo
+create a repo in github and then run below commands in your local project
+git remote add origin < https://github.com/PANDUB/react-app.git  >
+git branch -M main
+git push -u origin main
+
+#Enable AutoSave (File->Auto save) for VSCode
